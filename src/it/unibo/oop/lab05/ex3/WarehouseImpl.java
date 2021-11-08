@@ -3,6 +3,10 @@ package it.unibo.oop.lab05.ex3;
 import java.util.Set;
 import java.util.LinkedHashSet;
 
+/**
+ * Implementation of a warehouse.
+ *
+ */
 public class WarehouseImpl implements Warehouse{
 	private final Set<Product> products;
 	
